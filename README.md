@@ -1,4 +1,4 @@
-# Gruntfile.min.js
+# grunt-short
 
 > A collection of short, sample Gruntfile.js files that actually fit in a screen
 
