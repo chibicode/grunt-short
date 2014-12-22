@@ -1,4 +1,4 @@
-# grunt-short
+# grunt-short (work in progress)
 
 ## What?
 
